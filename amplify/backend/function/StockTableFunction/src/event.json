@@ -1,0 +1,8 @@
+{
+  "httpMethod": "GET",
+  "path": "/stock/AAPL",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "queryStringParameters": ""
+}

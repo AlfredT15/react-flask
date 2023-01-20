@@ -1,0 +1,17 @@
+{
+  "httpMethod": "POST",
+  "path": "/stock/AAPL",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "queryStringParameters": {
+    "ticker": "AAPL",
+    "timestamp": "2021-01-14 17:37:00",
+    "volume": "150705.0",
+    "weighted volume": "129.8525",
+    "open": "129.8799",
+    "close": "129.8101",
+    "high": "129.905",
+    "low": "129.8"
+  }
+}
